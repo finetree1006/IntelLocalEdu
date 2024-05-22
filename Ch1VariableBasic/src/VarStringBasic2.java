@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//123
 public class VarStringBasic2 {
 
    public static void main(String[] args) {
